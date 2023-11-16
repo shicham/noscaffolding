@@ -4,7 +4,7 @@ Astuce du bloc d'initialisation Java
 
 astuce intéressante que Kevlin Henney a trouvée dans du code que Michael Feathers a publié sur http://pastie.org/534364. Au lieu de faire ceci :
 
-ArrayList<Integer> values = new ArrayList<Integer>();\n
+ArrayList<Integer> values = new ArrayList<Integer>();#\n
 values.add(1);
 values.add(2);
 values.add(3);
